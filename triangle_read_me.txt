@@ -1,0 +1,1 @@
+ask the user to input the height and base of the triangle then uses the formula to find the area of the triangle and print it so the user can see
